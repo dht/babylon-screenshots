@@ -1,0 +1,4 @@
+node_modules/
+screenshots/*.webp
+screenshots/*.png
+output.json
